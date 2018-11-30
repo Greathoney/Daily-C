@@ -11,4 +11,4 @@
 
 #### Daily-C
 
-![daily-c](https://github.com/Greathoney/Daily-C/blob/master/daily-c.jpg)
+![Daily-C](https://github.com/Greathoney/Daily-C/blob/master/Daily-C.jpg)
