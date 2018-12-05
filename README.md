@@ -19,7 +19,7 @@ Daily-C 레포지터리의 존재 이유입니다.
 
 매일 매일 놀러와 주세요.
 
-** Daily-C **
+#### Daily-C
 
 ![Daily-C](https://github.com/Greathoney/Daily-C/blob/master/Daily-C.jpg)
 
