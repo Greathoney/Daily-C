@@ -186,15 +186,21 @@ int * insert(int * arr, int insert_num, int insert_num_index, int * len)
 **실행결과**
 
 Before inserting.
+
 1 2 3
+
 input to insert number **0**
+
 input to insert number's index **0**
 
 After inserting.
+
 0 1 2 3
 
 input to inset number **4**
+
 After appending.
+
 0 1 2 3 4
 
 
