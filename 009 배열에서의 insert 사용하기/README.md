@@ -216,8 +216,8 @@ int * insert() 함수를 봅시다.
 첫 번째로 return 값은 정수형의 포인터값입니다. 실제로 동적할당을 한 배열의 주소가 return 값이기에 저렇게 쓰면 된다고 보면 됩니다. 왜 return 값이 insert()함수 내에서 사용하는 이유는 main함수 내에서 arr1이 주소를 새로 받으려고 하기 때문입니다.
 
 ```C
-	int *tmp_arr;
-	tmp_arr = (int *)malloc(sizeof(int)*(*len + 1));
+int *tmp_arr;
+tmp_arr = (int *)malloc(sizeof(int)*(*len + 1));
 ```
 
 새로운 tmp_arr 배열을 만들고 이를 insert하고자 하는 배열보다 한칸 더 길게 받습니다.
@@ -239,9 +239,9 @@ for (; i < *len; i++)
 그 뒤에는 arr이 한칸씩 밀린 값을 넣어주어 완성합니다.
 
 ```C
-	free(arr);
+free(arr);
 
-	return tmp_arr;
+return tmp_arr;
 ```
 
 이제는 더이상 쓰지 않을 arr에 동적 할당되어있는 데이터를 free를 통해서 풀어주고,
