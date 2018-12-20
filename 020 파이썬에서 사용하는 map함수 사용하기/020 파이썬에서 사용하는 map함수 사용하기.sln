@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "020 파이썬에서 사용하는 map함수 사용하기", "020 파이썬에서 사용하는 map함수 사용하기\020 파이썬에서 사용하는 map함수 사용하기.vcxproj", "{274C3CF3-2896-4289-8FB4-93695B5FB061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{274C3CF3-2896-4289-8FB4-93695B5FB061}.Debug|x64.ActiveCfg = Debug|x64
+		{274C3CF3-2896-4289-8FB4-93695B5FB061}.Debug|x64.Build.0 = Debug|x64
+		{274C3CF3-2896-4289-8FB4-93695B5FB061}.Debug|x86.ActiveCfg = Debug|Win32
+		{274C3CF3-2896-4289-8FB4-93695B5FB061}.Debug|x86.Build.0 = Debug|Win32
+		{274C3CF3-2896-4289-8FB4-93695B5FB061}.Release|x64.ActiveCfg = Release|x64
+		{274C3CF3-2896-4289-8FB4-93695B5FB061}.Release|x64.Build.0 = Release|x64
+		{274C3CF3-2896-4289-8FB4-93695B5FB061}.Release|x86.ActiveCfg = Release|Win32
+		{274C3CF3-2896-4289-8FB4-93695B5FB061}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00F852F1-9DDE-4680-A882-63260D9A5246}
+	EndGlobalSection
+EndGlobal
