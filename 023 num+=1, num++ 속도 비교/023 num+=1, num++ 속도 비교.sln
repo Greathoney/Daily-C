@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "023 num+=1, num++ 속도 비교", "023 num+=1, num++ 속도 비교\023 num+=1, num++ 속도 비교.vcxproj", "{B1906F6D-E1B8-48E0-8568-B1012BCA6E13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1906F6D-E1B8-48E0-8568-B1012BCA6E13}.Debug|x64.ActiveCfg = Debug|x64
+		{B1906F6D-E1B8-48E0-8568-B1012BCA6E13}.Debug|x64.Build.0 = Debug|x64
+		{B1906F6D-E1B8-48E0-8568-B1012BCA6E13}.Debug|x86.ActiveCfg = Debug|Win32
+		{B1906F6D-E1B8-48E0-8568-B1012BCA6E13}.Debug|x86.Build.0 = Debug|Win32
+		{B1906F6D-E1B8-48E0-8568-B1012BCA6E13}.Release|x64.ActiveCfg = Release|x64
+		{B1906F6D-E1B8-48E0-8568-B1012BCA6E13}.Release|x64.Build.0 = Release|x64
+		{B1906F6D-E1B8-48E0-8568-B1012BCA6E13}.Release|x86.ActiveCfg = Release|Win32
+		{B1906F6D-E1B8-48E0-8568-B1012BCA6E13}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ED08965-7816-4F04-B908-C8E339F059AC}
+	EndGlobalSection
+EndGlobal
